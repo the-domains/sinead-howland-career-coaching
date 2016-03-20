@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sinead Howland Career Coaching]]></title>
+        <description><![CDATA[Sinead Howland Career Coaching]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 15:38:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd666024-b31b-4003-92e7-6f0d72e7f07c.jpg">]]></description>
+            <link>undefined50d08c7d-e2a2-4bf6-b16a-51bf3b8c1654/index.html</link>
+            <guid isPermaLink="false">50d08c7d-e2a2-4bf6-b16a-51bf3b8c1654</guid>
+            <pubDate>Sun, 20 Mar 2016 15:37:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
