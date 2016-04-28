@@ -1,7 +1,7 @@
 name: Sinead Howland Career Coaching
 favicon: null
-layout_spectrum: 0.25904
-typography_spectrum: 0.48793
+layout_spectrum: 0.76148
+typography_spectrum: 0.48989
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#231f20'
     - '#5c5b5b'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0.375
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
